@@ -1,0 +1,33 @@
+.done_info{
+	background: url(../img/bg.png);
+	background-color:  rgba(0,0,0,0.6);
+	padding: 20px 0 20px 0;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align: left;
+}
+.rslides img {
+  height: 777px;
+}
+.main_title{
+	background: url(../img/bg_2.png);
+}
+.main_name{
+	background: url(../img/bg.png);
+}
+footer .copry{
+	background: url(../img/bg_2.png);
+}
+#email{
+	width: 60%;
+	float: right;
+	height: 28px;
+}
+
+.divider .color-divider{	
+	width: 45%;
+}
+ul.tabs li a {	
+	padding:0 5px;
+}

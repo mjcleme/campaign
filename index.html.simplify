@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Mark Clement Alpine School Board</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <!-- Mains Style-->
+    <link href="css/style.css" rel="stylesheet" media="screen"> 
+
+    <!-- Skins styles -->
+    <link href="css/skins/red/red.css" rel="stylesheet" media="screen" class="skin">  
+
+    <!-- Responsive Theme -->
+    <link href="css/responsive-theme.css" rel="stylesheet" media="screen">  
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="apple-touch-icon" href="img/icons/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-touch-icon-114x114.png">  
+
+    <!-- Head Libs -->
+    <script src="js/modernizr.js"></script>
+
+    <!-- styles for IE -->
+    <!--[if lte IE 9]>
+      <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
+    <![endif]-->
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Skins Changer-->
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  </head>
+
+    <body> 
+
+        
+
+    <!-- layout-->
+    <div id="layout">
+
+        <!-- Main -->
+
+      <div class="jumbotron">
+        <h1 class="display-3">Vote Mark Clement </h1>
+<hr class="my-2">
+				<h1 class="display-3"> for Alpine School Board</h1>
+      </div>
+<h1>
+<mark>
+Take a look at my <a href="http://clementasd.blogspot.com/">Blog </a> and
+<a href="https://www.facebook.com/MarkClementAlpineSchoolBoard/">Facebook </a> page
+</mark>
+</h1>
+
+        <!-- central content -->
+        <section class="central_content">
+
+            <div class="container">
+
+                <ul id="carrousel_topic"> 
+
+                    <!-- item topics -->
+                    <li class="item_topics">
+                        <div class="border_img">
+                          <img src="img/carousel/small.jpg" alt="image">
+                        </div>
+
+                        <h3>Small Class Size</h3>
+                        <span class="stars"><img src="img/stars.png" alt="star" width="50"></span> 
+                        <h4>"Many classes have more than 40 students even in elementary grades"</h4>   
+                        <p>I have 9 children, 2 of which are currently attending school in Alpine School District.  I recognize the importance of small classes, particularly in early grades.</p>
+                    </li>  
+                    <!--end item topics -->
+
+                    <!-- item topics -->
+                    <li class="item_topics">
+                        <div class="border_img">
+                          <img src="img/carousel/assembly.jpg" alt="image">
+                        </div>
+
+                        <h3>Advanced Learning</h3>
+                        <span class="stars"><img src="img/stars.png" alt="star" width="50"></span> 
+                        <h4>"ALL, and Language Immersion Work"</h4>   
+                        <p>Several of my children have participated in Advanced Learning Laboratory (ALL) classes and have had terrific teachers that inspired them to learn.  It is important to fund programs for advanced students as well as those who need supplementary instruction.  </p>
+                    </li>  
+                    <!--end item topics -->
+
+                    <!-- item topics -->
+                    <li class="item_topics">
+                        <div class="border_img">
+                          <img src="img/carousel/math.jpg" alt="image">
+                        </div>   
+
+                        <h3>Efficient Math</h3>
+                        <span class="stars"><img src="img/stars.png" alt="star" width="50"></span> 
+                        <h4>"Math Skills are a Must"</h4>      
+                        <p>My 6th grader reminds me that students need to be fluent in math facts if they are going to be successful in algebra and geometry.  I am a strong advocate of encouraging children to pursue careers in math, science and engineering.</p>
+                    </li>
+                    <!--end item topics -->
+
+                    <!-- item topics -->
+                    <li  class="item_topics">
+                        <div class="border_img">
+                          <img src="img/carousel/Parents.jpg" alt="image">
+                        </div> 
+
+                        <h3>Parental Involvement</h3>
+                        <span class="stars"><img src="img/stars.png" alt="star" width="50"></span>  
+                        <h4>"PTA, Community Council and Volunteerism Count"</h4>   
+                        <p>While serving on a High School community council, I realized the impact that parents can have as they participate in PTA, community councils and volunteer in our schools.  I will provide increased opportunities for parents to participate in their children's education. </p> 
+                    </li>  
+                    <!--end item topics -->
+                  
+                    <!-- item topics -->
+                    <li class="item_topics">
+                        <div class="border_img">
+                          <img src="img/carousel/basketball.jpg" alt="image">
+                        </div>   
+
+                        <h3>Extracurricular Value</h3>
+                        <span class="stars"><img src="img/stars.png" alt="star" width="50"></span>
+                        <h4>"Students who are involved in activities are less likely to be involved in drugs or suicide"</h4>   
+<p>My 9th grader reminds me that a big part of an education is learning to get along with other people.  I am a strong supporter of sports, clubs and other cultural aspects of the educational system.</p>
+                    </li>  
+                    <!--end item topics -->  
+                    <!-- item topics -->
+                    <li class="item_topics">
+                        <div class="border_img">
+                          <img src="img/carousel/scouting.jpg" alt="image">
+                        </div>   
+
+                        <h3>Experience</h3>
+                        <span class="stars"><img src="img/stars.png" alt="star" width="50"></span>
+                        <h4>"Community Council, District Scouting, and Alpine School Board 2011-2012"</h4>   
+<p> My background as a professor of Computer Science at BYU has given me insights into what students need to learn in K-12 to be college ready.  My experience on the school board has given me the opportunity to understand the issues that need to be addressed. And as a father of 9 children, I really care about our children.</p>
+                    </li>  
+                    <!--end item topics -->  
+                    <!-- item topics -->
+                    <li class="item_topics">
+                        <div class="border_img">
+                          <img src="img/carousel/5k.jpg" alt="image">
+                        </div>   
+
+                        <h3>Fiscal Responsibility</h3>
+                        <span class="stars"><img src="img/stars.png" alt="star" width="50"></span>
+                        <h4>"Taxes Must Be Minimized"</h4>   
+<p> Raising a large family has taught me the value of being careful with finances.  I am an advocate for smaller government and reduced taxes and I think that this applies to our public schools as well as the federal government.  I will work to increase the quality of our education while keeping costs to a minimum.</p?
+                    </li>  
+                    <!--end item topics -->  
+
+                </ul>
+                <!-- topics Focus -->
+
+                <!-- star divisor -->
+                <div class="sep">       
+                  <span class="star"><img src="img/stars.png" alt="star"></span>
+                  <span class="rule-l">&nbsp;</span>
+                  <span class="rule-r">&nbsp;</span>        
+                </div>
+                <!-- end star divisor -->
+
+                <!-- candidate Information -->
+                <div class="row">      
+                    <div class="col-md-4">
+                        <ul class="rslides" id="slider2">
+                            <li class="border_img"><img src="img/family/IMGFam2.jpg" alt="image-candidate"></li>
+                            <li class="border_img"><img src="img/clement.png" alt="image-candidate"></li>
+                        </ul>               
+                    </div>
+
+                    <div class="col-md-8">
+                        <div class="candidate_about">
+
+                            <h1>Mark Clement  <span>Alpine School Board </span></h1>
+
+                            <h4>"Education is the key to success in life, and teachers make a lasting impact in the lives of their students." <p><em>Solomon Ortiz</em></h4>
+
+
+
+<p>
+While serving as a board member for Alpine School District and as chairman of the School Community Council at Pleasant Grove High School, I have emphasized parental involvement in local decisions.  Significant improvements in achievement have occurred as parents, teachers, and administrators work together.
+</p>
+
+<p>
+Living in Lindon for the last 21 years, I have seen my 9 children (ages 12 to 31) thrive in Alpine District public schools.  I support efforts to offer a rigorous math and science curriculum, and know the importance of strong sports and arts programs because my children have benefited from them.
+</p>
+
+<p>
+As a Computer Science professor at BYU, I understand the educational requirements and opportunities associated with careers in science, technology, engineering and math.  I would like to increase the use of technology to provide a learning experience that is customized to the needs of the individual.  My professional experience has given me insights into the skills students need to learn in high school in order to be successful in college and university studies.  
+</p>
+
+<p>
+Quality education is crucial in helping our country be competitive in a global economy and I am passionate about creating excellent opportunities for our children in Alpine District.
+</p>
+
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>   
+                <!-- end candidate Information -->
+
+                <!-- star divisor -->
+                <div class="sep">       
+                    <span class="star"><img src="img/stars.png" alt="star"></span>
+                    <span class="rule-l">&nbsp;</span>
+                    <span class="rule-r">&nbsp;</span>        
+                </div>
+                <!-- end star divisor -->
+
+            </div>
+
+        </section>
+        <!--end central content -->
+
+        <!--footer-->
+        <footer>
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-3 col-sm-3">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<div id="mc_embed_signup">
+<form action="//lds.us11.list-manage.com/subscribe/post?u=a237b54b397321e42123d4536&amp;id=6577a9791b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list</h2>
+<div class="input-group">
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="form-control" placeholder="Email Address" type="email" required="required" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<input class="form-control" placeholder="First Name" type="text" value="" name="FNAME" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<input type="text" value="" class="form-control" type="name" placeholder="Last Name" name="LNAME" id="mce-LNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a237b54b397321e42123d4536_6577a9791b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+                    <div class="col-md-3 col-sm-3">
+                        <h2><i class="fa fa-envelope"></i> CONTACT US</h2>
+                        <div class="divisor_line"></div>
+                        <ul class="contact">
+                            <li><i class="fa fa-phone"></i> Phone: (801) 310-0967</li>
+                            <li><i class="fa fa-envelope-o"></i>E-mail: <a href="#">markclementasd@gmail.com</a></li>
+<li><a href="http://clementasd.blogspot.com/">Blog </a>
+<li> <a href="https://www.facebook.com/MarkClementAlpineSchoolBoard/">Facebook </a>
+						</h2></div>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </footer>
+        <!-- end Footer -->
+    </div>
+    <!-- layout-->
+
+
+    <!-- ======================= JQuery libs =========================== -->
+    <!-- local copy of jquery. -->       
+    <script>window.jQuery || document.write('<script src="js/jquery.js"><\/script>')</script>   
+    <!--Lightbox--> 
+    <script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script> 
+    <!--Totop-->
+    <script type="text/javascript" src="js/totop/jquery.ui.totop.js" ></script>          
+    <!-- Bootstrap.js-->
+    <script src="js/bootstrap.js"></script>
+    <!-- Slide.js-->
+    <script src="js/responsiveslides.js"></script>
+    <!-- Carrousel -->
+    <script src="js/carrousel_topic/owl.carousel.js"></script>
+    <!-- Text Rotator -->
+    <script type="text/javascript" src="js/text_rotator/jquery.simple-text-rotator.js"></script>
+    <!--Nav-->
+    <script type="text/javascript" src="js/nav/tinynav.js"></script> 
+    <script type="text/javascript" src="js/nav/superfish.js"></script> 
+     <!--FlexSlider-->
+    <script src="js/flexslider/jquery.flexslider.js"></script> 
+    <!-- Counter -->
+    <script src="js/counter/jquery.countdown.js"></script>
+    <!-- Twitter Feed-->
+    <script src="js/twitter/jquery.tweet.js"></script>  
+    <!--fUNCTIONS-->
+    <script type="text/javascript" src="js/jquery-func.js"></script>
+    <!-- ======================= End JQuery libs =========================== -->
+
+  </body>
+</html>

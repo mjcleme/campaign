@@ -1,0 +1,34 @@
+Version 1.05 – 08/03/2014
+  Bootstrap 3.1
+  Improves in carousel options
+  Responsive Full
+  Ipad Tested
+  Mailchimp Integrated
+  Contact Form Working
+  FontAwesome Icons Integrated
+  Twitter Plugin Integrated
+
+Version 1.04 – 25/09/2013
+ Improves in the responsive
+
+Slider Improves
+  We added Skins colors
+  We added Icons Fonts
+
+Version 1.03 – 20/05/2013
+  Single Post Page
+  Sample Page
+
+Version 1.02 – 10/05/2013
+  overflow of images of the slide in firefox-mozilla
+
+Version 1.01 – 02/04/2013
+  we improved in resolutions
+  the page documentation
+  Internet Explorer 8 compatibility
+  we added a gallery carrousel
+  we added a testimonials space
+  we improved main and central content
+
+Version 1.0 – 29/03/2013
+  Initial Release

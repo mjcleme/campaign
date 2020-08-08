@@ -1,0 +1,33 @@
+Version 1.04 16/09/2015
+  we fix a bug that we had with scripts.
+Version 1.03 05/07/2014
+  Bootstrap 3.2
+  Improves in carousel options
+  Responsive Full
+  Ipad Tested
+  Mailchimp Integrated
+  Contact Form Working
+  FontAwesome Icons Integrated
+  Twitter Plugin Integrated
+  New Pages:
+   -Video Slider
+   -Team Page
+   -Sidebar Left
+   -Full Widht
+   -Register Page
+   -Eror 404 page
+   -ALternative Events
+  Version Boxed and margin Boxed
+
+Version 1.02 – 14/04/2014
+  overflow of images of the slide in firefox-mozilla
+  we improved in resolutions
+  the page documentation
+  we added a gallery carrousel
+  we added a testimonials space
+  we improved main and central content
+  We added Skins colors
+  We added Icons Fonts
+
+Version 1.0 – 11/11/2013
+  Initial Release

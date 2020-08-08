@@ -1,0 +1,27 @@
+.main_title #mc_embed_signup form input[type="submit"],
+.main_title #mc_embed_signup form input[type="submit"]:hover,
+.item_topics,
+.item_topics:hover,
+form.replies input[type="submit"],
+form.replies input[type="submit"]:hover,
+.border_img img,
+.border_img img:hover{	
+	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-o-transition: all .2s linear;
+	transition: all .2s linear;
+}
+.done_info,
+.done_info:hover,
+.candidate img,
+.candidate img:hover,
+.img_main img, .testimonials img,
+.item_topics:hover .img_main img,
+.testimonials img,
+.comment img,
+.comment img:hover{	
+	-webkit-transition: all .5s linear;
+	-moz-transition: all .5s linear;
+	-o-transition: all .5s linear;
+	transition: all .5s linear;
+}

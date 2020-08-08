@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Political HTML5/CSS3 Responsive Landing Page</title>
+    <meta name="viewport" content="width=device-width,  minimum-scale=1,  maximum-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <!-- Principal styles -->
+     <link href="css/style.css" rel="stylesheet" media="screen">  
+
+    <!-- Skins styles -->
+    <link href="css/skins/red/red.css" rel="stylesheet" media="screen" class="skin">  
+
+    <!-- styles for IE -->
+    <!--[if lte IE 9]>
+      <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
+    <![endif]-->
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Skins Changer-->
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script src="js/modernizr.js"></script>
+    
+  </head>
+
+  <body> 
+
+  <!--Layout Theme Options-->
+  <div id="layout">
+
+    <!-- Main -->
+      <section class="main">
+       <!-- Main Slide -->
+        <div class="main_slide">
+          <ul class="rslides" id="slider1">
+            <li><img src="img/slide_01.jpg" alt=""></li>
+            <li><img src="img/slide_02.jpg" alt=""></li>
+            <li><img src="img/slide_03.jpg" alt=""></li>
+          </ul>
+        </div>
+       <!-- end Main Slide -->
+
+       <!-- Main title -->
+        <div class="main_title">
+         <!-- Main Name -->
+          <div class="main_name">
+            <div class="container">
+              <div class="row">
+                  <a href="index.html"><h1>ERICK Cinquemani</h1></a>
+              </div>
+            </div>
+          </div>
+         <!-- end Main Name -->
+
+        <!--  Content in main -->
+          <div class="container">
+            <div class="row">
+              <div class="title_post">
+                <h3>"This is Political's</h3>
+                <h2>Single Post"</h2>
+                <p>Get subscribed to be notified of latest events</p>
+
+                <!--Form-->
+               <div id="mc_embed_signup">
+                    <form id="newsletterForm" action="php/mailchip/newsletter-subscribe.php">                  
+                        <div class="row">   
+                          <div class="col-md-6">
+                            <input type="email" required="" value="" name="email" class="email"  id="mce-EMAIL" placeholder="Sing Up for Newsletter">
+                          </div>
+                           <div class="col-md-2">
+                            <input type="submit" class="botton" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+                           </div>
+                        </div>
+                    </form>   
+                    <div id="result-newsletter"></div>
+                </div>
+              <!--Form-->
+              
+           <!--  Social -->
+            <div class="row">
+               <div class="social_icon display_responsive">
+                  <a href="#" class="tooltip_hover" title="Facebook"><i class="fa fa-facebook"></i></a>
+                  <a href="#" class="tooltip_hover" title="Twitter"><i class="fa fa-twitter"></i></a>
+                  <a href="#" class="tooltip_hover" title="Dribbble"><i class="fa fa-dribbble"></i></a>
+                  <a href="#" class="tooltip_hover" title="Linkedin"><i class="fa fa-linkedin"></i></a>
+                  <a href="#" class="tooltip_hover" title="Google-plus"><i class="fa fa-google-plus"></i></a>
+                </div>
+            </div>  
+           <!-- end Social -->            
+          </div>
+         <!--  end Content in main -->
+
+          <!--  Bar done -->
+          <div class="done_info">
+            <div class="container">
+              <div class="row">
+
+                <!--  Registrer to Vote -->
+                <div class="col-md-4">
+                  <div class="row">
+                    <div class="col-md-3">
+                      <i class="fa fa-users"></i>
+                    </div>
+                    <div class="col-md-9">
+                      <div class="content_done">
+                        <h2>Register to Vote</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- end Registrer to Vote -->
+
+                <!--  Done -->
+                <div class="col-md-4">
+                  <div class="row">
+                    <div class="col-md-3">
+                      <i class="fa fa-cloud-download"></i>
+                    </div>
+                    <div class="col-md-9">
+                      <div class="content_done">
+                        <h2>Donate</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--  end Done -->
+
+                <!--  Contact -->
+                <div class="col-md-4">
+                  <a href="#" data-toggle="modal" data-target="#myModal">
+                    <div class="row">
+                      <div class="col-md-3">
+                        <i class="fa fa-envelope"></i>
+                      </div>
+                      <div class="col-md-9">
+                        <div class="content_done">
+                          <h2>CONTACT WITH ERICK</h2>
+                          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!--  end Contact -->
+
+              </div>
+            </div>
+          </div>
+          <!--  end Bar done -->
+        </div><!-- end Container-->
+      </section>
+    <!-- end Main -->
+
+    <div class="clearfix"></div>
+
+    <!-- central content -->
+    <section class="central_content">
+      <div class="container">
+        <div class="row">
+          
+          <!-- Information Post -->
+          <div class="post">
+               <iframe src="http://player.vimeo.com/video/44367635"></iframe>
+               <div class="clearfix"></div>
+               <h3>This is Political's Full Width Page Option</h3>
+               <ul class="news_information">
+                  <li><a href="#">December 10, 2013 | </a></li>
+                  <li><a href="#">Issues: Transportation | </a></li>
+                  <li><a href="#">Email: Cinquemani@political.com.gov</a></li>
+                </ul>
+
+                <div class="divisor_line"></div>
+
+               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
+               <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. At vero eos et accusam et justo duo dolores et ea rebum. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+               <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. At vero eos et accusam et justo duo dolores et ea rebum. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+
+               <p>Sanctus sea sed takimata ut vero voluptua. At vero eos et accusam et justo duo dolores et ea rebum. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
+          </div>
+          <!-- end Information Post -->
+
+          <div class="divisor_line"></div>
+          
+          <!-- comments_area -->
+          <div class="comments_area">
+
+            <ol>
+              <!-- comment -->
+              <li class="comment">
+                <img src="img/10.jpg" height="54" width="54" alt="image-comment"><a href="#"><cite class="fn">Caro</cite>
+                <time datetime="2013-05-02T14:07">May 02, 2013 at 14:07 pm</time></a>      
+                  <section>
+                    <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                  </section>
+
+                <div class="reply">
+                  <a href="#">Reply</a> <span>↓</span>     
+                </div>
+
+                <div class="divisor_line"></div>
+              </li>
+              <!-- end comment -->
+
+              <!-- comment -->
+              <li class="comment">
+                <img src="img/11.jpg" height="54" width="54" alt="image-comment"><a href="#"><cite class="fn">Jeny </cite>    
+                <time datetime="2013-05-22T21:00">May 22, 2013 at 21:00 pm</time></a> 
+                <section>
+                    <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                  </section>
+                <div class="reply">
+                  <a href="#">Reply</a> <span>↓</span>     
+                </div>
+
+                <div class="divisor_line"></div>
+
+              <ol>
+                <!-- comment -->
+                <li class="comment">
+                  <img src="img/10.jpg" height="54" width="54" alt="image-comment"><a href="#"><cite class="fn">Crefull</cite><time datetime="2013-07-02T04:07">June 02, 2013 at 04:07 am</time></a>      
+                  <section>
+                    <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                  </section>
+                  <div class="reply">
+                    <a href="#">Reply</a> <span>↓</span>       
+                  </div>
+                </li>
+                <!-- end comment -->
+              </ol>
+            </li>
+            <!-- end comment -->
+          </ol>
+
+        <div class="clearfix"></div>
+
+        
+         
+          <form action="#" class="replies">
+           <h3 id="reply-title">Leave a Reply </h3>
+            <p class="comment-notes">
+              Your email address will not be published. Required fields are marked 
+              <span class="required">*</span>
+            </p>             
+              <label for="author"><span>Name</span> 
+                <span class="required">*</span>
+              </label> 
+              <input name="author" type="text" value="" aria-required="true">
+
+           
+            <label for="email"><span>Email</span>  
+              <span class="required">*</span>
+            </label> 
+            <input name="email" type="text" value=""  aria-required="true">
+
+            <label for="url"><span>Website</span>  </label>
+            <input name="url" type="text" value="">
+          
+          
+            <label for="comment"><span>Comment</span> </label>
+            <textarea name="comment" cols="45" rows="8" aria-required="true">
+            </textarea>         
+            
+            <p></p>
+           <input name="submit" class="botton" type="submit" id="submit" value="Post Comment">    
+
+          </form>
+        </div>
+        <!-- comments_area -->
+        </div>
+      </div>
+    </section>
+    <!--end central content -->
+
+    
+    <div class="clearfix"></div>
+
+    <!--footer-->
+    <footer>
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-5">
+            <div class="divider">
+              <div class="line-divider"></div>
+                <div class="color-divider">
+                  <h2>FOOTER TEXT</h2>
+                </div>
+            </div>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. </p>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam.</p>
+          </div>
+
+          <div class="col-md-4">
+            <div class="divider">
+              <div class="line-divider"></div>
+                <div class="color-divider">
+                  <h2>LASTES TWEETS</h2>
+                </div>
+            </div>
+            
+            <div class="tweets">
+              <div class="twitter">  
+
+                </div>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="divider">
+              <div class="line-divider"></div>
+                <div class="color-divider">
+                  <h2>CONTACT US</h2>
+                </div>
+            </div>
+
+            <div class="contact">
+              <p>12345 Street Name,</p>
+              <p>Bugalagrande,</p>
+              <p>Valle, Province,</p>
+              <p>Colombia</p><br>
+              <p>Phone: (123) 456-789</p>
+              <p>E-mail: info@political.com</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Copry -->
+      <div class="copry">
+        <div class="container">
+          <div class="row">
+           <!-- social -->
+            <div class="social_icon">
+              <a href="#" title="Facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" title="Twitter"><i class="fa fa-twitter"></i></a>
+              <a href="#" title="dribbble"><i class="fa fa-dribbble"></i></a>
+              <a href="#" title="linkedin"><i class="fa fa-linkedin"></i></a>
+              <a href="#" title="google-plus"><i class="fa fa-google-plus"></i></a>
+            </div>
+            <!-- end social -->
+          </div>
+
+          <div class="row">
+            <p>Erick Cinquemani - Your Landing Political Site. Copyright © 2013. All Rights Reserved</p>
+          </div>
+
+        </div>
+      </div>
+    </footer>
+    <!-- end Footer -->
+
+    <!-- Modal -->
+    <div class="modal fade left" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h3 class="modal-title" id="myModalLabel">Send us a Message</h3>
+          </div>
+          <div class="modal-body">
+            <!--Form Contact-->
+            <form class="form-contact" action="php/send-mail-contact.php">
+
+              <div class="form_contact">
+                <label>Name</label>
+                <input type="text" class="name form-control" placeholder="Full Name" required="required" name="Name">
+                <label>Email</label>
+                <input type="email" class="email form-control" placeholder="Email" required="required" name="Email">
+                <label>Message</label>
+                <textarea class="form-control" rows="4" placeholder="Message" required="required" name="Message"></textarea>
+              </div>
+
+              <input type="submit" class="botton" value="Send Message" name="subscribe">
+
+              <div class="result"></div>
+            </form>
+            <!--Form Contact-->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Modal -->
+
+  </div>
+  <!--Layout Theme Options-->
+   
+    <!-- ======================= JQuery libs =========================== -->
+    <!-- Always latest version of jQuery-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+     <!-- jQuery local-->    
+    <script>window.jQuery || document.write('<script src="js/jquery.js"><\/script>')</script>    
+    <!--Lightbox--> 
+    <script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script> 
+    <!--Totop-->
+    <script type="text/javascript" src="js/totop/jquery.ui.totop.js" ></script>          
+    <!-- Bootstrap.js-->
+    <script src="js/bootstrap.js"></script>
+    <!-- Slide.js-->
+    <script src="js/responsiveslides.js"></script>
+    <!-- Twitter Feed-->
+    <script src="js/twitter/jquery.tweet.js"></script> 
+    <!-- carousel.js-->
+    <script src="js/carousel/carousel.js"></script>  
+    <!-- Carrousel -->
+    <script src="js/modernizr.js"></script>
+    <!--Theme Options-->
+    <script type="text/javascript" src="js/theme-options/theme-options.js"></script>
+    <script type="text/javascript" src="js/theme-options/jquery.cookies.js"></script>  
+    <script type='text/javascript' src='js/theme-options/jquery.easing.1.3.min.js'></script>  
+    <!--Scroll-->   
+    <script src="js/scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+    <!-- Nicescroll -->
+    <script src="js/scrollbar/jquery.nicescroll.js"></script> 
+    <!--fUNCTIONS-->
+    <script type="text/javascript" src="js/jquery-func.js"></script>
+    <!-- ======================= End JQuery libs =========================== -->
+
+  </body>
+</html>
